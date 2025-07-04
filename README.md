@@ -81,15 +81,19 @@ http://localhost:3000/filmes
 
 ```json
 {
-  "titulo": "The Godfather",
-  "ano": 1972,
-  "diretor": "Francis Ford Coppola",
-  "genero": ["Crime", "Drama"],
-  "duracaoSegundos": 10500,
-  "notaIMDb": 9.2,
-  "lucro": "$1.4 billion",
-  "maiorPremiacao": "Best Picture Oscar",
-  "sinopse": "A mafia boss tries to transfer control of his clandestine empire to his reluctant son."
+ "titulo": "Interestelar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "genero": [
+            "Aventura",
+            "Drama",
+            "Ficção Científica"
+        ],
+        "duracaoSegundos": 10140,
+        "notaIMDb": 8.6,
+        "lucro": "$512.0 milhões",
+        "maiorPremiacao": "Oscar de Melhores Efeitos Visuais",
+        "sinopse": "Um grupo de exploradores espaciais viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
 }
 ```
 
